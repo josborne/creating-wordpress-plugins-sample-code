@@ -1,0 +1,25 @@
+#user-form label
+{
+    text-align: right;
+    float: left;
+    width: 100px;
+    padding-right: 20px;
+}
+
+#user-form input
+{
+    width: 200px;
+    float: left;
+}
+
+#user-form fieldset p
+{
+    clear: both;
+    padding: 15px;
+}
+
+#user-form legend
+{
+    font-size: 110%;
+    font-weight: bold;
+}
